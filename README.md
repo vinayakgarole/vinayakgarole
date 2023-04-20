@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinayak Garole</h1>
 <h3 align="center">I am currently studying Fullstack</h3>
 
-<img align="right"alt="coding"width="400"src="![image](https://user-images.githubusercontent.com/108934895/233317723-9d70ede3-e151-4b9d-bbc7-20c65161cb6e.png)">
+<img align="right"alt="coding"width="300"src="![image](https://user-images.githubusercontent.com/108934895/233317723-9d70ede3-e151-4b9d-bbc7-20c65161cb6e.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakgarole&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakgarole" /> </p>
 
