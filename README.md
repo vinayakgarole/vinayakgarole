@@ -1,3 +1,4 @@
+![logo](https://github.com/vinayakgarole/vinayakgarole/blob/master/bannerfs.png)
 <h1 align="center">Hi 👋, I'm Vinayak Garole</h1>
 <h3 align="center">I am currently studying Fullstack</h3>
 
